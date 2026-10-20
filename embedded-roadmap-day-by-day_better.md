@@ -30,19 +30,19 @@
 
 | Day | Focus | Task |
 |---|---|---|
-<!-- | Mon | Theory | Variables, data types, operators, control flow (if/else, switch). |
+| Mon | Theory | Variables, data types, operators, control flow (if/else, switch). |
 | Tue | Coding | Write 10 of your 20 small C programs (calculators, pattern printers, basic string ops) covering today's and yesterday's topics. | -->
-<!-- | Wed | Hardware Lab | Unbox the Arduino Uno clone, install Arduino IDE, run the built-in Blink example to confirm the board works. | -->
-<!-- | Thu | Theory + Debugging | Loops (for/while/do-while) and functions — parameters, return values, scope. | -->
-<!-- | Fri | Build | Modify Blink to your own timing pattern using `digitalWrite` — no libraries, just registers-via-Arduino-abstraction for now. This is pure dopamine, not firmware complexity yet. | -->
-<!-- | Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. | -->
-<!-- | Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What's the difference between `=` and `==`? What does a function's return type control? Why does C need explicit variable declaration? Keep this day light — burnout kills 12-month plans. | -->
+| Wed | Hardware Lab | Unbox the Arduino Uno clone, install Arduino IDE, run the built-in Blink example to confirm the board works. |
+| Thu | Theory + Debugging | Loops (for/while/do-while) and functions — parameters, return values, scope. |
+| Fri | Build | Modify Blink to your own timing pattern using `digitalWrite` — no libraries, just registers-via-Arduino-abstraction for now. This is pure dopamine, not firmware complexity yet. |
+| Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. | -
+| Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What's the difference between `=` and `==`? What does a function's return type control? Why does C need explicit variable declaration? Keep this day light — burnout kills 12-month plans. |
 
-<!-- **This week's shippable output (check off before moving on):**
+**This week's shippable output (check off before moving on):**
 - [ ] Commit pushed to `embedded-journey` on GitHub
 - [ ] README updated for this week's build (what + why)
 - [ ] One demo photo, short video, or terminal/serial-output capture saved
-- [ ] Half-page of notes in your journal (what worked, what broke, why) -->
+- [ ] Half-page of notes in your journal (what worked, what broke, why)
 
 ### Week 2 — Pointers, Arrays, Strings  `Phase 1`
 
