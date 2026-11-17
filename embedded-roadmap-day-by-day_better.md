@@ -30,13 +30,13 @@
 
 | Day | Focus | Task |
 |---|---|---|
-| Mon | Theory | Variables, data types, operators, control flow (if/else, switch). |
-| Tue | Coding | Write 10 of your 20 small C programs (calculators, pattern printers, basic string ops) covering today's and yesterday's topics. | -->
-| Wed | Hardware Lab | Unbox the Arduino Uno clone, install Arduino IDE, run the built-in Blink example to confirm the board works. |
-| Thu | Theory + Debugging | Loops (for/while/do-while) and functions — parameters, return values, scope. |
-| Fri | Build | Modify Blink to your own timing pattern using `digitalWrite` — no libraries, just registers-via-Arduino-abstraction for now. This is pure dopamine, not firmware complexity yet. |
-| Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. | -
-| Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What's the difference between `=` and `==`? What does a function's return type control? Why does C need explicit variable declaration? Keep this day light — burnout kills 12-month plans. |
+<!-- | Mon | Theory | Variables, data types, operators, control flow (if/else, switch). | -->
+<!-- | Tue | Coding | Write 10 of your 20 small C programs (calculators, pattern printers, basic string ops) covering today's and yesterday's topics. | --> -->
+<!-- | Wed | Hardware Lab | Unbox the Arduino Uno clone, install Arduino IDE, run the built-in Blink example to confirm the board works. | -->
+<!-- | Thu | Theory + Debugging | Loops (for/while/do-while) and functions — parameters, return values, scope. | -->
+<!-- | Fri | Build | Modify Blink to your own timing pattern using `digitalWrite` — no libraries, just registers-via-Arduino-abstraction for now. This is pure dopamine, not firmware complexity yet. | -->
+<!-- | Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. | - -->
+<!-- | Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What's the difference between `=` and `==`? What does a function's return type control? Why does C need explicit variable declaration? Keep this day light — burnout kills 12-month plans. | -->
 
 **This week's shippable output (check off before moving on):**
 - [ ] Commit pushed to `embedded-journey` on GitHub
@@ -48,7 +48,7 @@
 
 | Day | Focus | Task |
 |---|---|---|
-| Mon | Theory | Pointers: declaration, dereferencing, pointer arithmetic. This is THE most important C topic for embedded — don't rush it. |
+<!-- | Mon | Theory | Pointers: declaration, dereferencing, pointer arithmetic. This is THE most important C topic for embedded — don't rush it. | -->
 | Tue | Coding | 15 of your 30 pointer-focused problems: swap via pointers, pointer to array traversal, basic string reversal without library functions. |
 | Wed | Hardware Lab | Wire a push-button to a digital input pin with a pull-down resistor. Read its state in code. |
 | Thu | Theory + Debugging | Arrays vs pointers, string handling in C (no built-in string type — it's just a char array). |
