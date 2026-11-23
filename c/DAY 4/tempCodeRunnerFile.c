@@ -1,7 +1,9 @@
-/structures
-struct employee
-{
-    int code; // This declares a new user defined data type!
-    float salary;
-    char name[10];
-}; // semicolon is important
+for (int i = 0; i < n; i++)
+    {
+        ptr[i] = 7*(i+1);
+    }
+
+    for (int i = 0; i < n; i++)
+    {
+        printf("%d \n",ptr[i]);
+    
