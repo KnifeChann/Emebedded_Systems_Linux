@@ -38,35 +38,35 @@
 <!-- | Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. | - -->
 <!-- | Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What's the difference between `=` and `==`? What does a function's return type control? Why does C need explicit variable declaration? Keep this day light — burnout kills 12-month plans. | -->
 
-**This week's shippable output (check off before moving on):**
+<!-- **This week's shippable output (check off before moving on):**
 - [ ] Commit pushed to `embedded-journey` on GitHub
 - [ ] README updated for this week's build (what + why)
 - [ ] One demo photo, short video, or terminal/serial-output capture saved
-- [ ] Half-page of notes in your journal (what worked, what broke, why)
+- [ ] Half-page of notes in your journal (what worked, what broke, why) -->
 
 ### Week 2 — Pointers, Arrays, Strings  `Phase 1`
 
 | Day | Focus | Task |
 |---|---|---|
 <!-- | Mon | Theory | Pointers: declaration, dereferencing, pointer arithmetic. This is THE most important C topic for embedded — don't rush it. | -->
-| Tue | Coding | 15 of your 30 pointer-focused problems: swap via pointers, pointer to array traversal, basic string reversal without library functions. |
+<!-- | Tue | Coding | 15 of your 30 pointer-focused problems: swap via pointers, pointer to array traversal, basic string reversal without library functions. | -->
 | Wed | Hardware Lab | Wire a push-button to a digital input pin with a pull-down resistor. Read its state in code. |
-| Thu | Theory + Debugging | Arrays vs pointers, string handling in C (no built-in string type — it's just a char array). |
+<!-- | Thu | Theory + Debugging | Arrays vs pointers, string handling in C (no built-in string type — it's just a char array). | -->
 | Fri | Build | Button input + LED: press button, LED turns on. Then add basic debouncing (a simple delay-based check) and understand *why* debouncing is needed — you'll see the flicker without it. |
-| Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. |
-| Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What is `*ptr` doing? What's the relationship between array indexing (`arr[i]`) and pointer arithmetic (`*(arr+i)`)? Why is debouncing necessary? Keep this day light — burnout kills 12-month plans. |
+<!-- | Sat | Finish + Ship | Complete the build, write the README (what it does, why you made each design choice), push to GitHub `embedded-journey` repo. | -->
+<!-- | Sun | Revise + Quiz + Rest | Review the week's notes. Self-quiz: What is `*ptr` doing? What's the relationship between array indexing (`arr[i]`) and pointer arithmetic (`*(arr+i)`)? Why is debouncing necessary? Keep this day light — burnout kills 12-month plans. | -->
 
-**This week's shippable output (check off before moving on):**
+<!-- **This week's shippable output (check off before moving on):**
 - [ ] Commit pushed to `embedded-journey` on GitHub
 - [ ] README updated for this week's build (what + why)
 - [ ] One demo photo, short video, or terminal/serial-output capture saved
-- [ ] Half-page of notes in your journal (what worked, what broke, why)
+- [ ] Half-page of notes in your journal (what worked, what broke, why) -->
 
 ### Week 3 — Structs, Bitwise Ops, Modular C  `Phase 1`
 
 | Day | Focus | Task |
 |---|---|---|
-| Mon | Theory | Structs, enums, typedef — organizing related data. |
+<!-- | Mon | Theory | Structs, enums, typedef — organizing related data. | -->
 | Tue | Coding | Remaining 15 pointer problems. Then start the calculator project: split into `main.c`, `calc.c`, `calc.h`. |
 | Wed | Hardware Lab | Confirm PWM pins on your Arduino, connect an LED through a resistor to a PWM-capable pin. |
 | Thu | Theory + Debugging | Bitwise operators (&, |, ^, ~, <<, >>), macros, and header files / multi-file compilation. |
